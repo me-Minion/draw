@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T12:53:30.608Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9GcNkcDTjtfzjMwlcZhj" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T13:03:32.963Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="KLSkbYqP1vF2NspUHh5Z" version="16.5.6" type="github">
   <diagram id="boqYSjhlPDfo5EqzpHAg" name="Page-1">
     <mxGraphModel dx="1416" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="LoPak_it9yGRDo9d3WOG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=20;gradientColor=none;fillStyle=auto;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="69" y="749" width="721" height="1001" as="geometry" />
         </mxCell>
-        <mxCell id="QJieqvBiZlkZ0J_g9zYV-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;打破双亲委派&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;为什么打破双亲委派？&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;双亲委派类加载器加载范围的限制，在某些情况下父加载器无法加载到需要的文件，这时候就需要委托子加载器去加载class文件。&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;SPI&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 19px&quot;&gt;JDBC，DriverManager&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QJieqvBiZlkZ0J_g9zYV-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;打破双亲委派&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;为什么打破双亲委派？&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;类加载器受加载范围的限制，在某些情况下父加载器无法加载到需要的文件，这时候就需要委托子加载器去加载class文件。&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;SPI&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 19px&quot;&gt;JDBC，DriverManager&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="1880" width="660" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ihBeobYTyzfN0iLytpON-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;strokeColor=#9999FF;strokeWidth=7;" parent="1" source="ihBeobYTyzfN0iLytpON-1" target="ihBeobYTyzfN0iLytpON-2" edge="1">
@@ -167,7 +167,7 @@
           <mxGeometry x="410" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LoPak_it9yGRDo9d3WOG-56" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;父类加载不了&lt;br&gt;自己加载&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fillStyle=auto;fontFamily=Helvetica;fontSize=21;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1537.5" width="150" height="25" as="geometry" />
+          <mxGeometry x="610" y="1535" width="150" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
