@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T08:44:29.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="f_T-BOb4iLE0uFqb5fvX" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T08:54:39.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pWozwAdKQ-lca_WmXfdN" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,20 @@
         <mxCell id="tsZCZAis8NTeMSvLRY_F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" target="tsZCZAis8NTeMSvLRY_F-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-2" target="tsZCZAis8NTeMSvLRY_F-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-2" target="tsZCZAis8NTeMSvLRY_F-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-2" target="tsZCZAis8NTeMSvLRY_F-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="370" />
+              <mxPoint x="430" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-2" value="精品营管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;gradientColor=none;shadow=1;sketch=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
@@ -37,14 +51,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsZCZAis8NTeMSvLRY_F-13" value="打卡列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-13" value="打卡列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tsZCZAis8NTeMSvLRY_F-15" value="列表数据" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;gradientColor=none;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-15" value="列表数据" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tsZCZAis8NTeMSvLRY_F-17" value="累计打卡数据" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;gradientColor=none;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-17" value="累计打卡数据" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-25" value="精品营列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-27" value="新建/编辑&lt;br&gt;精品营" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-29" value="启用/停用" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
