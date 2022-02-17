@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T12:13:36.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ziUuXaEoczCiB-GMq3DT" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T12:17:07.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8toV9FWkvpX7tB_R_CPs" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="1577" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -424,8 +424,8 @@
         <mxCell id="tsZCZAis8NTeMSvLRY_F-153" value="二维码图片" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="3340" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tsZCZAis8NTeMSvLRY_F-155" value="1、活动和天的关系？&lt;br&gt;2、累计天数，绑定在训练营；单天的跟天数是怎么绑定的？&lt;br&gt;3、OMC交互？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3440" width="380" height="150" as="geometry" />
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-155" value="1、活动和天的关系？&lt;br&gt;2、累计天数，绑定在训练营；单天的跟天数是怎么绑定的？&lt;br&gt;3、OMC交互？&lt;br&gt;4、抽奖规则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="3450" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-156" value="第N天，N怎么确定？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1080" y="3030" width="220" height="20" as="geometry" />
