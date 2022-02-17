@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T11:07:02.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="sQxCWg0E3LVyzLCoskcQ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T11:08:21.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MTBRo1Yp4klbGPpJhVZa" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,21 @@
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-74" value="培训中&lt;br&gt;已出营&lt;br&gt;入营状态" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1490" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-76" value="预约入营" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-77" value="立即入营" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1510" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-78" value="第X天" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1600" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-79" value="已结束" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1690" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-80" value="已预约" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1410" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
