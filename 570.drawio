@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T10:06:33.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="R5dGK6BOL1XztON7ih1u" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T10:51:13.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Mw795Sxj8AwcsUlyFzLI" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,14 +103,14 @@
         <mxCell id="tsZCZAis8NTeMSvLRY_F-41" value="精品营核心目标" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="630" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tsZCZAis8NTeMSvLRY_F-42" value="精品营训练模式" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="715" width="160" height="70" as="geometry" />
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-42" value="精品营训练模式&lt;br&gt;配置&amp;gt;默认&lt;br&gt;共两条" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="855" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-43" value="精品营奖品展示" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="810" width="160" height="70" as="geometry" />
+          <mxGeometry x="630" y="1080" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-44" value="精品营训练心得" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="910" width="160" height="70" as="geometry" />
+          <mxGeometry x="630" y="1180" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-45" target="tsZCZAis8NTeMSvLRY_F-46">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,19 @@
           <mxGeometry x="1161" y="490" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-50" value="&lt;font color=&quot;#ff3333&quot;&gt;难度后台配置，&lt;br&gt;其它的初始化进去？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="440" width="220" height="10" as="geometry" />
+          <mxGeometry x="940" y="480" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;fontColor=#FF3333;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-50" target="tsZCZAis8NTeMSvLRY_F-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-52" value="&lt;font color=&quot;#ff3333&quot;&gt;内容什么样的？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-53" value="默认两个标签" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="810" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-54" value="配置两个标签" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;shadow=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="910" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
