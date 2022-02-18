@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T02:31:22.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0bZ5emwcKozP-KfgJxSe" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T02:57:26.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="emYfwZLOJy4vkijqofk5" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="2404" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,6 +459,9 @@
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-177" value="&lt;h1&gt;提供dubbo&lt;/h1&gt;&lt;div&gt;1、用户当天有数据的、最新操作的精品营数据&lt;/div&gt;&lt;div&gt;2、打卡内容展示【默认10条，查看更多展示多少？有新打卡数据怎么办？】&lt;/div&gt;&lt;div&gt;3、点赞、取消点赞&lt;/div&gt;&lt;div&gt;4、打卡&lt;/div&gt;&lt;div&gt;5、打卡心情标签查询（每个精品营有自己大的卡标签）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;sketch=1;fontSize=30;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-520" y="3735" width="870" height="685" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-178" value="什么样算完成？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=30;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="3740" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
