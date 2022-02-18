@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:07:38.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DZXL3ixrgVRNjIVtqWA6" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:18:23.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zq-qNgw1canCJBTbyGxu" version="16.5.6" type="github">
   <diagram id="2Vl-29mJTYHd3rG5gsJs" name="Page-1">
     <mxGraphModel dx="3231" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
           <mxGeometry x="1490" y="3450" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-156" value="第N天，N怎么确定？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="3030" width="220" height="20" as="geometry" />
+          <mxGeometry x="1080" y="3155" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#FF3333;" edge="1" parent="1" source="tsZCZAis8NTeMSvLRY_F-158" target="tsZCZAis8NTeMSvLRY_F-162">
           <mxGeometry relative="1" as="geometry" />
@@ -459,6 +459,9 @@
         </mxCell>
         <mxCell id="tsZCZAis8NTeMSvLRY_F-178" value="什么样算完成？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=30;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1660" y="3740" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZCZAis8NTeMSvLRY_F-179" value="问题汇总&lt;br&gt;&lt;ol&gt;&lt;li&gt;精品营和时间怎么挂钩？&lt;/li&gt;&lt;li&gt;后台配置精品营，隐藏的数据清单需要提供&lt;/li&gt;&lt;li&gt;绑定的直播id，是否需要领课？&lt;/li&gt;&lt;li&gt;做题、去自习室怎么算完成？&lt;/li&gt;&lt;li&gt;精品营和活动的绑定形式是什么？怎么对接OMC？抽奖规则&lt;/li&gt;&lt;li&gt;某天的训练任务怎么算完成？&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=30;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="4210" width="1200" height="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
