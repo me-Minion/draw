@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T09:08:25.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VOHqANYPudQzbh537gYp" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T09:14:16.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wglqQbErmv1WTnEDXvCD" version="17.1.3" type="github">
   <diagram id="bNKjRDHy-BN2CsvUo0f2" name="Page-1">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-1" value="发现页管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" edge="1" parent="1" source="ckIyHxA89ARsExGkGKD5-4" target="ckIyHxA89ARsExGkGKD5-9">
           <mxGeometry relative="1" as="geometry" />
@@ -20,25 +20,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-4" value="精品营管理" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" edge="1" parent="1" source="ckIyHxA89ARsExGkGKD5-7" target="ckIyHxA89ARsExGkGKD5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-7" value="打卡列表" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-9" value="精品营列表、新增、编辑&lt;br style=&quot;font-size: 14px;&quot;&gt;停用/启用" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-11" value="精品营训练页信息&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;没有页面&lt;br style=&quot;font-size: 14px&quot;&gt;通过后台接口JSON导入&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-13" value="打卡列表、累计打卡数" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckIyHxA89ARsExGkGKD5-15" value="发现页管理在流量m站后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="950" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-16" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;精品营和训练页基础数据、打卡数据在flowrate中，实际打卡动作是在App中触发。&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-18" value="flowrate-dubbo" style="swimlane;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="170" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-21" value="精品营数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="ckIyHxA89ARsExGkGKD5-18">
+          <mxGeometry x="25" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-23" value="mobi" style="swimlane;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="170" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-24" value="精品营数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="ckIyHxA89ARsExGkGKD5-23">
+          <mxGeometry x="25" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-25" value="app" style="swimlane;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="170" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ckIyHxA89ARsExGkGKD5-26" value="精品营数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="ckIyHxA89ARsExGkGKD5-25">
+          <mxGeometry x="25" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
