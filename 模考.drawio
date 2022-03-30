@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T07:37:33.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7O8xuQ4jpst4C2mGzII8" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T07:43:31.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="KA6pxpkRrJql50YNvk8L" version="17.2.1" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
     <mxGraphModel dx="2088" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,9 +91,6 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-32" value="pk国家线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="840" width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-50" value="&lt;h1&gt;去模考&lt;/h1&gt;&lt;p&gt;绑定各个科目的考试url&lt;/p&gt;&lt;p&gt;①支持断点续答&lt;/p&gt;&lt;p&gt;②需要验签&lt;/p&gt;&lt;p&gt;③http接收题库通知&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="950" width="320" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-51" target="_EqHwqMPYveHNjQXLmpc-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -172,6 +169,9 @@
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-89" value="咨询组件" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-91" value="使用品牌拉新后台&lt;br&gt;1、拉新规则按现有的？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1320" width="330" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
