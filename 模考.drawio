@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T08:10:31.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="PmRlegfQv7Cqi7kl3Sfq" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T08:11:16.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="M3GkXsv0tpyw-aNb4tTk" version="17.2.1" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
     <mxGraphModel dx="2728" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,8 +149,8 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-74" value="新手小白" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-77" value="1、PK领奖，会有8个奖品，分别注到两个课程卡中？&lt;br&gt;2、奖品配置在哪儿？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1125" width="380" height="90" as="geometry" />
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-77" value="1、PK领奖，会有8个奖品，分别注到两个课程卡中，前端注课&lt;br&gt;2、前端能知道领过课程或优惠券不？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1125" width="450" height="115" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=26;strokeWidth=7;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-78" target="_EqHwqMPYveHNjQXLmpc-32">
           <mxGeometry relative="1" as="geometry" />
