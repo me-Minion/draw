@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T07:43:31.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="KA6pxpkRrJql50YNvk8L" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T07:50:10.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="CzvdrOqIvxmcXIjU6Y80" version="17.2.1" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
-    <mxGraphModel dx="2088" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,10 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-1" value="头图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;glass=0;shadow=1;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="650" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-2" value="活动规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=0;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-2" value="活动规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="715" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-4" value="13张走势图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=0;glass=0;shadow=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-4" value="13张走势图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;glass=0;shadow=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="690" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-6" target="_EqHwqMPYveHNjQXLmpc-20">
@@ -25,13 +25,13 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-6" target="_EqHwqMPYveHNjQXLmpc-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-6" value="PK排名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-6" value="PK排名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-8" target="_EqHwqMPYveHNjQXLmpc-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-8" value="去模考" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-8" value="去模考" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-10" target="_EqHwqMPYveHNjQXLmpc-12">
@@ -43,7 +43,7 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-12" target="_EqHwqMPYveHNjQXLmpc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-12" value="PK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-12" value="PK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=26;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-14" target="_EqHwqMPYveHNjQXLmpc-24">
@@ -62,19 +62,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-14" value="PK结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-14" value="PK结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-20" value="参加模考" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-20" value="参加模考" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-22" value="分享排名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-24" value="领攻略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-24" value="领攻略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1534" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-26" value="领指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-26" value="领指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1534" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-32" target="_EqHwqMPYveHNjQXLmpc-6">
@@ -88,13 +88,13 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.989;exitY=0.82;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;exitPerimeter=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-32" target="_EqHwqMPYveHNjQXLmpc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-32" value="pk国家线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-32" value="pk国家线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="840" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-51" target="_EqHwqMPYveHNjQXLmpc-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-51" value="得分弹窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-51" value="得分弹窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" target="_EqHwqMPYveHNjQXLmpc-72">
@@ -113,7 +113,7 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.273;exitDx=0;exitDy=0;fontSize=26;exitPerimeter=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-56" target="_EqHwqMPYveHNjQXLmpc-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-56" value="我的奖品池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-56" value="我的奖品池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1060" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;strokeWidth=1;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-58" target="_EqHwqMPYveHNjQXLmpc-83">
@@ -140,7 +140,7 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-69" value="套卷&lt;br&gt;1、国家线是单科还是总分？&lt;br&gt;2、套卷中的考试是否有自评分？&lt;br&gt;3、得分弹窗的分数会自动填充到pk国家线的分数中？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1000" y="700" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-70" value="领优惠券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-70" value="领优惠券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-72" value="高分突破" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
@@ -149,8 +149,8 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-74" value="新手小白" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EqHwqMPYveHNjQXLmpc-77" value="PK领奖，会有8个奖品，分别注到两个课程卡中？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1120" width="320" height="80" as="geometry" />
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-77" value="1、PK领奖，会有8个奖品，分别注到两个课程卡中？&lt;br&gt;2、奖品配置在哪儿？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1125" width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=26;strokeWidth=7;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-78" target="_EqHwqMPYveHNjQXLmpc-32">
           <mxGeometry relative="1" as="geometry" />
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-91" value="使用品牌拉新后台&lt;br&gt;1、拉新规则按现有的？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="840" y="1320" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-92" value="&lt;font color=&quot;#ff6666&quot;&gt;国家线&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="960" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
