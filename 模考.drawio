@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T06:13:23.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RQNyAMOLeOPRn0ziEvIq" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T06:14:39.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_6jUWefJRq-ZGek-H9iS" version="17.2.1" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
     <mxGraphModel dx="1773" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,11 +89,17 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-26" value="领指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-32" target="_EqHwqMPYveHNjQXLmpc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-32" value="pk奖励页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-35" value="好课特惠" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-37" value="立即pk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
