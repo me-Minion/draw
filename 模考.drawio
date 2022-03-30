@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T07:24:24.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RF619l_Q1JwzhxZ0N9Xg" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T07:35:45.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="EHw-oPYPHIYy5AXw4oc_" version="17.2.1" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
-    <mxGraphModel dx="3005" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2915" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-30" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" vertex="1" connectable="0" parent="_EqHwqMPYveHNjQXLmpc-28">
           <mxGeometry x="-0.136" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-14" target="_EqHwqMPYveHNjQXLmpc-26">
@@ -124,8 +124,30 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-51" value="得分弹窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" target="_EqHwqMPYveHNjQXLmpc-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" target="_EqHwqMPYveHNjQXLmpc-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.773;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;exitPerimeter=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-56" target="_EqHwqMPYveHNjQXLmpc-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.273;exitDx=0;exitDy=0;fontSize=26;exitPerimeter=0;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-56" target="_EqHwqMPYveHNjQXLmpc-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-56" value="我的奖品池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1060" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;strokeWidth=1;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-58" target="_EqHwqMPYveHNjQXLmpc-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;strokeWidth=1;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-58" target="_EqHwqMPYveHNjQXLmpc-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-58" value="晒上上上签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1280" width="200" height="220" as="geometry" />
@@ -135,6 +157,33 @@
         </mxCell>
         <mxCell id="_EqHwqMPYveHNjQXLmpc-61" value="咨询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1620" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-69" value="套卷&lt;br&gt;1、国家线是单科还是总分？&lt;br&gt;2、套卷中的考试是否有自评分？&lt;br&gt;3、得分弹窗的分数会自动填充到pk国家线的分数中？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="700" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-70" value="领优惠券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-72" value="高分突破" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-74" value="新手小白" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-77" value="PK领奖，会有8个奖品，分别注到两个课程卡中？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1120" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=26;strokeWidth=7;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="_EqHwqMPYveHNjQXLmpc-78" target="_EqHwqMPYveHNjQXLmpc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-78" value="去PK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-83" value="填写收货地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EqHwqMPYveHNjQXLmpc-84" value="立即邀请" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
