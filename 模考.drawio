@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T06:16:46.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Nnze0rOmP9E0Ib_1QHQS" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T07:15:38.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="eKrdLC6Jo44T9PWzA2VV" version="17.2.5" type="github">
   <diagram id="ihBc0QGuPxb0S3G1goWF" name="Page-1">
-    <mxGraphModel dx="1773" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2733" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
         <mxCell id="_EqHwqMPYveHNjQXLmpc-93" value="领取之后，跳回主页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=26;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1660" y="999" width="200" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="x0RUVZ7-YrOHF23lP2Rb-1" value="活动详情&lt;br&gt;file:///api/activity/pull-new/detail&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+        <mxCell id="x0RUVZ7-YrOHF23lP2Rb-1" value="活动详情&lt;br&gt;/api/activity/pull-new/detail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="2130" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x0RUVZ7-YrOHF23lP2Rb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x0RUVZ7-YrOHF23lP2Rb-3" target="x0RUVZ7-YrOHF23lP2Rb-7">
