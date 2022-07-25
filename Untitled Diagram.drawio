@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T02:14:40.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.1.1" etag="TQMT3ZMrmAZFm0wHZ5P2" type="github"><diagram id="S-fF27sUOjIRzjMl98NE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-25T02:24:00.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DWphhJd-JB04mVKgrnhB" version="20.1.1" type="github">
+  <diagram id="S-fF27sUOjIRzjMl98NE" name="Page-1">
+    <mxGraphModel dx="3533" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-6" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="220" width="200" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-7" value="鲨鱼后台-直播管理" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="EXb6ruAqr9OWqx2oTseu-6">
+          <mxGeometry y="25" width="200" height="230" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-8" value="直播教师端" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="475" width="200" height="230" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-10" value="直播助教端" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="705" width="200" height="230" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-11" value="学员直播前台PC" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="935" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-12" value="学员直播前台APP" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="1160" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-13" value="学员直播前台ipad" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="1385" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-14" value="学员直播前台H5" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="1610" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-15" value="学员端回放PC" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="1835" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-16" value="学员端回放APP" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="2060" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXb6ruAqr9OWqx2oTseu-17" value="新题库侧针对云课堂的定制规则" style="swimlane;horizontal=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-660" y="2285" width="200" height="225" as="geometry">
+            <mxRectangle y="25" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
