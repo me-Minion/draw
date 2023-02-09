@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T03:27:27.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.6.0" etag="ADNKHqrtVp9FN64pfoQe" type="github"><diagram id="1ScvouiUMYIK3BVvuRCV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-09T04:35:10.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.6.0" etag="cZDusOljc20xp_1I2W2F" type="github">
+  <diagram id="rYb2RZtOciaVKphFqG-1" name="第 1 页">
+    <mxGraphModel dx="1503" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-1" value="NPS推送V1.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-3" target="rcfBmoh1Opj6rKWvJBjH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-3" value="学管工作台" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-4" target="rcfBmoh1Opj6rKWvJBjH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-4" value="学管" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-6" target="rcfBmoh1Opj6rKWvJBjH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-6" value="评价问卷配置" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-8" target="rcfBmoh1Opj6rKWvJBjH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-8" value="班级列表" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-10" target="rcfBmoh1Opj6rKWvJBjH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-10" value="配置push提醒" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-13" target="rcfBmoh1Opj6rKWvJBjH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-13" target="rcfBmoh1Opj6rKWvJBjH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-13" value="选择被评价的授课老师" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-16" target="rcfBmoh1Opj6rKWvJBjH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-16" target="rcfBmoh1Opj6rKWvJBjH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-16" target="rcfBmoh1Opj6rKWvJBjH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-16" value="选择推送模板" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="870" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-18" value="选择推送模板" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1810" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-19" target="rcfBmoh1Opj6rKWvJBjH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rcfBmoh1Opj6rKWvJBjH-19" target="rcfBmoh1Opj6rKWvJBjH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-19" value="选择推送日期及时间" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1020" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-21" value="1-n个老师" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-23" value="课中&lt;br&gt;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-25" value="结课" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="900" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-27" value="上课当天推送" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-29" value="自定义推送" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;sketch=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1050" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-31" value="上完一节课，评价一次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="852.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-32" value="所有课程上完后，评价一次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="912.5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-33" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;选中老师对应的下课时间，且最近的一次日期对应的老师均已上过课&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1005" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcfBmoh1Opj6rKWvJBjH-34" value="任意设置时间推送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1065" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
