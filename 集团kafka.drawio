@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T07:21:16.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.8.22" etag="mrt0P42dlkdG8Es1XQjO" type="github"><diagram name="第 1 页" id="pXgnvezZV3tXyRKlgKGZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T08:41:52.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XOu4eo0wqDIOJS0onh50" version="20.8.22" type="github">
+  <diagram name="第 1 页" id="pXgnvezZV3tXyRKlgKGZ">
+    <mxGraphModel dx="766" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f0yqBQwWiQst3PoUjayr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="320" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f0yqBQwWiQst3PoUjayr-1" target="f0yqBQwWiQst3PoUjayr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-1" value="集团kafka&lt;br&gt;生产者" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f0yqBQwWiQst3PoUjayr-2" target="f0yqBQwWiQst3PoUjayr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-2" value="集团kafka&lt;br&gt;消费者" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0yqBQwWiQst3PoUjayr-3" target="f0yqBQwWiQst3PoUjayr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-3" value="RokcetMQ&lt;br&gt;生产者" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-4" value="RocketMQ&lt;br&gt;消费者" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-9" value="集团kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="330" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-11" value="国内RocketMQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="325" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yqBQwWiQst3PoUjayr-17" value="宁总的服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
