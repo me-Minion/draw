@@ -1,92 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T02:40:08.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Iz-1tsNTfPWea-kNgBd2" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:40:39.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XZ8vTC_osFGIRVpkALzH" version="21.5.2" type="github">
   <diagram name="第 1 页" id="HjcUYGO30nJuk45t63Vl">
-    <mxGraphModel dx="1779" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JorKWfMErrwngxVBuPZv-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="700" width="65" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="695" width="85" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="510" width="75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JorKWfMErrwngxVBuPZv-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="320" width="150" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-1" target="JorKWfMErrwngxVBuPZv-2">
+        <mxCell id="JorKWfMErrwngxVBuPZv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JorKWfMErrwngxVBuPZv-1" target="JorKWfMErrwngxVBuPZv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-1" value="我的学员（91）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-1" value="我的学员（91）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="840" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-4">
+        <mxCell id="JorKWfMErrwngxVBuPZv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-7">
+        <mxCell id="JorKWfMErrwngxVBuPZv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-12">
+        <mxCell id="JorKWfMErrwngxVBuPZv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-2" target="JorKWfMErrwngxVBuPZv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-2" value="学员画像" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-2" value="学员画像" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-16">
+        <mxCell id="JorKWfMErrwngxVBuPZv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-19">
+        <mxCell id="JorKWfMErrwngxVBuPZv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-20">
+        <mxCell id="JorKWfMErrwngxVBuPZv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-4" target="JorKWfMErrwngxVBuPZv-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-4" value="基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-4" value="基础信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-7" target="JorKWfMErrwngxVBuPZv-28">
+        <mxCell id="JorKWfMErrwngxVBuPZv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JorKWfMErrwngxVBuPZv-7" target="JorKWfMErrwngxVBuPZv-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-7" value="学习情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-7" value="学习情况" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-12" value="整体情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-12" value="整体情况" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-16" value="基础信息" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-16" value="基础信息" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-19" value="学术背景" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-19" value="学术背景" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="430" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-20" value="考研目标" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-20" value="考研目标" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="510" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-27" value="&lt;font color=&quot;#ff0000&quot;&gt;91提供页面&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-27" value="&lt;font color=&quot;#ff0000&quot;&gt;91提供页面&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="330" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-28" value="考季" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-28" value="考季" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="830" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-31" value="基础一阶" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JorKWfMErrwngxVBuPZv-31" value="基础一阶" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="690" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-33" value="基础二阶" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="790" width="115" height="40" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-33" value="基础二阶" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="812.5" y="1025" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-34" value="强化阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="850" width="115" height="40" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-34" value="强化阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="812.5" y="1085" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-35" value="冲点阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="910" width="115" height="40" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-35" value="冲点阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="812.5" y="1145" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-41" value="测试结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="620" width="100" height="20" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-41" value="测试结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="586" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-42" value="APP学习进度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="670" width="100" height="20" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-42" value="APP学习进度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="760" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-43" value="课堂出勤" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="720" width="100" height="20" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-43" value="课堂出勤" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="972.5" y="995" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-44" value="学习表现" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="770" width="100" height="20" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-44" value="学习表现" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="972.5" y="1045" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JorKWfMErrwngxVBuPZv-45" value="课堂出勤明细查看" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="720" width="100" height="20" as="geometry" />
+        <mxCell id="JorKWfMErrwngxVBuPZv-45" value="课堂出勤明细查看" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1132.5" y="995" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-1" value="英语" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="556" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-3" value="政治" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="586" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-4" value="数学" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="616" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-8" value="课前规划&lt;br&gt;入门测等级" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="513.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-9" value="总完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="670" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-10" value="课前规划&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="710" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-11" value="导学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="750" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-12" value="导学续学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="790" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-13" value="刷题巩固&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="830" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-14" value="政治&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="710" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-16" value="英语&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="760" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-17" value="数学&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="810" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="690" width="90" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="585" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="760" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-30" value="&lt;h1&gt;完成率计算公式&lt;/h1&gt;&lt;p style=&quot;margin: 10px 0px 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;数据提取范围是某考季、某阶段&amp;nbsp; （前端注意，需要在切换考季、阶段时展示对应考季节、对应阶段的相关数据）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划+导学+导学续学+刷题巩固总完成率=（课前规划+导学+导学续学+刷题巩固实际完成任务数）/（课前规划+导学+导学续学+刷题巩固任务总数）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率=课前规划实际完成任务数/课前规划任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率=导学实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率=导学续学实际完成任务数/导学续学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率=刷题巩固实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;各个科目的各个完成比率：&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（政治）=课前规划实际完成任务数/课前规划任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（政治）=导学实际完成任务数/导学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（政治）=导学续学实际完成任务数/导学续学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（政治）=刷题巩固实际完成任务数/刷题巩固任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（英语）=课前规划实际完成任务数/课前规划任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（英语）=导学实际完成任务数/导学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（英语）=导学续学实际完成任务数/导学续学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（英语）=刷题巩固实际完成任务数/刷题巩固任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（数学）=课前规划实际完成任务数/课前规划任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（数学）=导学实际完成任务数/导学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（数学）=导学续学实际完成任务数/导学续学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（数学）=刷题巩固实际完成任务数/刷题巩固任务总数（数学）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="440" width="710" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
