@@ -1,16 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:40:39.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XZ8vTC_osFGIRVpkALzH" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T06:39:53.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7jSRahZNppkyImvZDDkt" version="21.6.6" type="github">
   <diagram name="第 1 页" id="HjcUYGO30nJuk45t63Vl">
-    <mxGraphModel dx="1796" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4020" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hmlYSEphnml5yRxJCa9B-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="955" width="75" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1182.5" y="950" width="97.5" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="hmlYSEphnml5yRxJCa9B-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="1375" y="700" width="65" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="695" width="85" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="510" width="75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
@@ -74,13 +80,13 @@
           <mxGeometry x="827" y="690" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-33" value="基础二阶" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="812.5" y="1025" width="115" height="40" as="geometry" />
+          <mxGeometry x="827" y="1230" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-34" value="强化阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="812.5" y="1085" width="115" height="40" as="geometry" />
+          <mxGeometry x="827" y="1290" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-35" value="冲点阶段" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="812.5" y="1145" width="115" height="40" as="geometry" />
+          <mxGeometry x="827" y="1350" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-41" value="测试结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="586" width="100" height="20" as="geometry" />
@@ -89,61 +95,97 @@
           <mxGeometry x="990" y="760" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-43" value="课堂出勤" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="972.5" y="995" width="100" height="20" as="geometry" />
+          <mxGeometry x="990" y="995" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-44" value="学习表现" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="972.5" y="1045" width="100" height="20" as="geometry" />
+          <mxGeometry x="990" y="1080" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-45" value="课堂出勤明细查看" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="1132.5" y="995" width="100" height="20" as="geometry" />
+          <mxGeometry x="1182.5" y="935" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-1" value="英语" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-1" value="英语" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1202.5" y="556" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-3" value="政治" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-3" value="政治" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1202.5" y="586" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-4" value="数学" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-4" value="数学" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1202.5" y="616" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-8" value="课前规划&lt;br&gt;入门测等级" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-8" value="课前规划&lt;br&gt;入门测等级" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1192.5" y="513.5" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-9" value="总完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-9" value="总完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="670" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-10" value="课前规划&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-10" value="课前规划&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="710" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-11" value="导学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-11" value="导学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="750" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-12" value="导学续学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-12" value="导学续学&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="790" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-13" value="刷题巩固&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-13" value="刷题巩固&lt;br&gt;完成率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="830" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-14" value="政治&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-14" value="政治&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1375" y="710" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-16" value="英语&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-16" value="英语&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1375" y="760" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-17" value="数学&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-17" value="数学&lt;br&gt;完成率" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1375" y="810" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="1275" y="690" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="585" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="760" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hmlYSEphnml5yRxJCa9B-30" value="&lt;h1&gt;完成率计算公式&lt;/h1&gt;&lt;p style=&quot;margin: 10px 0px 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;数据提取范围是某考季、某阶段&amp;nbsp; （前端注意，需要在切换考季、阶段时展示对应考季节、对应阶段的相关数据）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划+导学+导学续学+刷题巩固总完成率=（课前规划+导学+导学续学+刷题巩固实际完成任务数）/（课前规划+导学+导学续学+刷题巩固任务总数）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率=课前规划实际完成任务数/课前规划任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率=导学实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率=导学续学实际完成任务数/导学续学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率=刷题巩固实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;各个科目的各个完成比率：&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（政治）=课前规划实际完成任务数/课前规划任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（政治）=导学实际完成任务数/导学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（政治）=导学续学实际完成任务数/导学续学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（政治）=刷题巩固实际完成任务数/刷题巩固任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（英语）=课前规划实际完成任务数/课前规划任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（英语）=导学实际完成任务数/导学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（英语）=导学续学实际完成任务数/导学续学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（英语）=刷题巩固实际完成任务数/刷题巩固任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（数学）=课前规划实际完成任务数/课前规划任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（数学）=导学实际完成任务数/导学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（数学）=导学续学实际完成任务数/导学续学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（数学）=刷题巩固实际完成任务数/刷题巩固任务总数（数学）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hmlYSEphnml5yRxJCa9B-30" value="&lt;h1&gt;完成率计算公式&lt;/h1&gt;&lt;p style=&quot;margin: 10px 0px 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;数据提取范围是某考季、某阶段&amp;nbsp; （前端注意，需要在切换考季、阶段时展示对应考季节、对应阶段的相关数据）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划+导学+导学续学+刷题巩固总完成率=（课前规划+导学+导学续学+刷题巩固实际完成任务数）/（课前规划+导学+导学续学+刷题巩固任务总数）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率=课前规划实际完成任务数/课前规划任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率=导学实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率=导学续学实际完成任务数/导学续学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率=刷题巩固实际完成任务数/导学任务总数&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;各个科目的各个完成比率：&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（政治）=课前规划实际完成任务数/课前规划任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（政治）=导学实际完成任务数/导学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（政治）=导学续学实际完成任务数/导学续学任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（政治）=刷题巩固实际完成任务数/刷题巩固任务总数（政治）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（英语）=课前规划实际完成任务数/课前规划任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（英语）=导学实际完成任务数/导学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（英语）=导学续学实际完成任务数/导学续学任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（英语）=刷题巩固实际完成任务数/刷题巩固任务总数（英语）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;课前规划完成率（数学）=课前规划实际完成任务数/课前规划任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学完成率（数学）=导学实际完成任务数/导学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;导学续学完成率（数学）=导学续学实际完成任务数/导学续学任务总数（数学）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 80px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;刷题巩固完成率（数学）=刷题巩固实际完成任务数/刷题巩固任务总数（数学）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1480" y="440" width="710" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-1" value="打卡率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="955" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-2" value="出勤率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="995" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-3" value="补卡率" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="1035" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-4" value="连续未打卡次数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="1075" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-5" value="迟到次数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5" y="1115" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-7" value="英语" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="965" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-8" value="政治" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="995" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-9" value="数学" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="1025" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-10" value="管综" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="1055" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-11" value="非管综专业课" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="1085" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-12" value="VIP" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="1115" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1282.5" y="960" width="90" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
