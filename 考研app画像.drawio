@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T06:58:45.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="FuLORZKv2ojYPVJIfWwk" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T07:00:53.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WfaQkPxAp9lE6DFClFfl" version="21.6.6" type="github">
   <diagram name="第 1 页" id="HjcUYGO30nJuk45t63Vl">
-    <mxGraphModel dx="2335" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3541" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1171.25" y="975" width="97.5" height="195" as="geometry" />
+          <mxGeometry x="1162.5" y="1060" width="97.5" height="195" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1355" y="720" width="75" height="195" as="geometry" />
@@ -75,6 +75,18 @@
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-27" value="&lt;font color=&quot;#ff0000&quot;&gt;91提供页面&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="50" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-28" target="JorKWfMErrwngxVBuPZv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.026;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-28" target="JorKWfMErrwngxVBuPZv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-28" target="JorKWfMErrwngxVBuPZv-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOnKtEDKV3KdFgjS1WJt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JorKWfMErrwngxVBuPZv-28" target="JorKWfMErrwngxVBuPZv-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JorKWfMErrwngxVBuPZv-28" value="考季" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="830" width="110" height="40" as="geometry" />
@@ -197,37 +209,37 @@
           <mxGeometry x="2471" y="850" width="759" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-19" value="提问次数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1182.5" y="1105" width="50" height="40" as="geometry" />
+          <mxGeometry x="1186.25" y="1190" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-20" value="自习次数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="1230" width="50" height="40" as="geometry" />
+          <mxGeometry x="1186.25" y="1085" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-21" value="&lt;h1&gt;次数公式&lt;/h1&gt;&lt;div&gt;&lt;p style=&quot;margin: 10px 0px 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;前提：数据提取范围是某考季、某阶段&amp;nbsp; （前端注意，需要在切换考季、阶段时展示对应考季节、对应阶段的相关数据）&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;提问次数=APP学员提问次数总和&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px 40px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;自习次数=APP预约自习次数&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1090" width="780" height="150" as="geometry" />
+          <mxGeometry x="1510" y="1095" width="780" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="980" width="75" height="195" as="geometry" />
+          <mxGeometry x="1359.75" y="1065" width="75" height="195" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-23" value="英语" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1100" width="65" height="30" as="geometry" />
+          <mxGeometry x="1364.75" y="1075" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-24" value="政治" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1130" width="65" height="30" as="geometry" />
+          <mxGeometry x="1364.75" y="1105" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-25" value="数学" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1160" width="65" height="30" as="geometry" />
+          <mxGeometry x="1364.75" y="1135" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-26" value="管综" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1190" width="65" height="30" as="geometry" />
+          <mxGeometry x="1364.75" y="1165" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-27" value="非管综专业课" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1220" width="65" height="30" as="geometry" />
+          <mxGeometry x="1364.75" y="1195" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-28" value="VIP" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="1140" width="65" height="30" as="geometry" />
+          <mxGeometry x="1366.25" y="1225" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="1272.5" y="985" width="90" height="190" as="geometry" />
+          <mxGeometry x="1263.75" y="1070" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xOnKtEDKV3KdFgjS1WJt-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="800" width="70" height="20" as="geometry" />
