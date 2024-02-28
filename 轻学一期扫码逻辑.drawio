@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T11:17:36.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="_0db9VbU67Pq7QUALTMt" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T11:21:42.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="qktaXObAQkHtODyUGQn3" version="23.0.2" type="github">
   <diagram name="第 1 页" id="xEFOGvNU6p2dMKi8G9L9">
-    <mxGraphModel dx="936" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         <mxCell id="GYFdXGMC144e27Gy8O6m-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GYFdXGMC144e27Gy8O6m-10" target="GYFdXGMC144e27Gy8O6m-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GYFdXGMC144e27Gy8O6m-29" value="有没有必要存？&lt;br&gt;员工、参数json、扫码时间、" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GYFdXGMC144e27Gy8O6m-27">
+        <mxCell id="GYFdXGMC144e27Gy8O6m-29" value="有没有必要存？&lt;br&gt;员工、参数json、扫码时间、学员IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GYFdXGMC144e27Gy8O6m-27">
           <mxGeometry x="-0.2585" y="-2" relative="1" as="geometry">
             <mxPoint x="26" y="-2" as="offset" />
           </mxGeometry>
