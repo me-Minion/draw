@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T11:21:42.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="qktaXObAQkHtODyUGQn3" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T11:57:18.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="HZyN5m6OsYUSKSe8tr4P" version="23.0.2" type="github">
   <diagram name="第 1 页" id="xEFOGvNU6p2dMKi8G9L9">
-    <mxGraphModel dx="936" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         <mxCell id="GYFdXGMC144e27Gy8O6m-19" value="打开学员端小程序&lt;br&gt;同时展示对应的资料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GYFdXGMC144e27Gy8O6m-21" value="方案1、参数直接拼到链接后面，同时落库生成记录，存员工、参数json、生成时间，二维码地址；每次生成都是新的二维码&lt;br&gt;方案2、以id传递，后端存id和参数的关系；如果存id，则可以固定二维码，但是后续如果增加唯一维度，不太好扩展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GYFdXGMC144e27Gy8O6m-21" value="方案1、参数直接拼到链接后面，同时落库生成记录，存员工、参数json、生成时间，二维码地址；每次生成都是新的二维码&lt;br&gt;方案2、以id传递，后端存id和参数的关系；如果存id，则可以固定二维码，但是后续如果增加唯一维度，不太好扩展,通过md5保证唯一，（落库存，md5、员工唯一标识、参数json、生成时间）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GYFdXGMC144e27Gy8O6m-22" value="生成记录落库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
