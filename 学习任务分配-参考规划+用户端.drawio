@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T09:55:50.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="AF2ql6lXiMR87nngDIpl" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T10:15:05.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="EEalur1A_ZEWl8g9kEko" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
     <mxGraphModel dx="925" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-41" value="分配详情页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="580" width="120" height="80" as="geometry" />
         </mxCell>
@@ -101,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-43" value="添加任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="198.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-44" target="Sbyam__u2MsJ9fQgmKF_-60">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-58" value="学习任务库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="1090" y="188.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-60" value="规划列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="370" width="120" height="80" as="geometry" />
@@ -161,13 +164,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-66" value="录播课" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="195" width="120" height="30" as="geometry" />
+          <mxGeometry x="1280" y="161.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-67" target="Sbyam__u2MsJ9fQgmKF_-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-67" value="续学课" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="305" width="120" height="30" as="geometry" />
+          <mxGeometry x="1280" y="271.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-68" target="Sbyam__u2MsJ9fQgmKF_-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-68" value="暑期保温刷题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="350" width="120" height="30" as="geometry" />
+          <mxGeometry x="1280" y="375" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-73" value="&lt;font color=&quot;#9933ff&quot;&gt;只有三个数据，英语、政治、数学；还有别要筛选吗&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1290" y="20" width="170" height="25" as="geometry" />
@@ -199,6 +208,9 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-84" value="&lt;font color=&quot;#9933ff&quot;&gt;既然有全选，这个是否可以舍弃&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2000" y="56.25" width="170" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-85" target="Sbyam__u2MsJ9fQgmKF_-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-85" value="预分配表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="2198" y="75" width="60" height="57.5" as="geometry" />
         </mxCell>
@@ -225,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-97" value="录播课列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="195" width="120" height="30" as="geometry" />
+          <mxGeometry x="1470" y="161.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-100" target="Sbyam__u2MsJ9fQgmKF_-104">
           <mxGeometry relative="1" as="geometry" />
@@ -237,25 +249,131 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-100" value="录播课子任务列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="197.5" width="100" height="25" as="geometry" />
+          <mxGeometry x="1670" y="163.75" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-103" value="全选/取消全选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1874" y="166.25" width="130" height="20" as="geometry" />
+          <mxGeometry x="1874" y="132.5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-104" value="添加条件下所有任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1874" y="200" width="130" height="20" as="geometry" />
+          <mxGeometry x="1874" y="166.25" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-105" value="添加选中任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1874" y="231.25" width="130" height="20" as="geometry" />
+          <mxGeometry x="1874" y="197.5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-106" value="&lt;font color=&quot;#9933ff&quot;&gt;分页查询，此操作改怎么实现？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2004" y="197.5" width="170" height="25" as="geometry" />
+          <mxGeometry x="2004" y="163.75" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-107" target="Sbyam__u2MsJ9fQgmKF_-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-107" value="预分配表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="2202" y="212.5" width="60" height="57.5" as="geometry" />
+          <mxGeometry x="2202" y="178.75" width="60" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-105" target="Sbyam__u2MsJ9fQgmKF_-107">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-113" target="Sbyam__u2MsJ9fQgmKF_-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-118" value="查看" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sbyam__u2MsJ9fQgmKF_-117">
+          <mxGeometry x="-0.1331" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-113" value="续学课列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="271.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-116" target="Sbyam__u2MsJ9fQgmKF_-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-116" target="Sbyam__u2MsJ9fQgmKF_-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-116" target="Sbyam__u2MsJ9fQgmKF_-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-116" value="续学课子任务列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="273.75" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-119" value="全选/取消全选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="242.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-120" value="添加条件下所有任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="276.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-121" value="添加选中任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="307.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-122" value="&lt;font color=&quot;#9933ff&quot;&gt;分页查询，此操作改怎么实现？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2004" y="273.75" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-123" target="Sbyam__u2MsJ9fQgmKF_-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-123" value="预分配表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2202" y="288.75" width="60" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-121" target="Sbyam__u2MsJ9fQgmKF_-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-128" target="Sbyam__u2MsJ9fQgmKF_-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-132" value="查看" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sbyam__u2MsJ9fQgmKF_-131">
+          <mxGeometry x="-0.1008" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-128" value="暑期保温刷题列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="375" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-130" target="Sbyam__u2MsJ9fQgmKF_-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-130" target="Sbyam__u2MsJ9fQgmKF_-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-130" target="Sbyam__u2MsJ9fQgmKF_-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-130" value="保温课子任务列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="377.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-133" value="全选/取消全选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="346.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-134" value="添加条件下所有任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="380" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-135" value="添加选中任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="411.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-136" value="&lt;font color=&quot;#9933ff&quot;&gt;分页查询，此操作改怎么实现？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2004" y="377.5" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-137" target="Sbyam__u2MsJ9fQgmKF_-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-137" value="预分配表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2202" y="392.5" width="60" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-135" target="Sbyam__u2MsJ9fQgmKF_-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-143" value="课前规划任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="73.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-145" value="录播课任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="177.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-147" value="续学课任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="287.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-149" value="保温课任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="391.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-151" value="任务列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="920" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
