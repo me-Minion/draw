@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T08:56:58.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="uDs_WFJ-ajjr8VH_5huR" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:09:04.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="0UK7hCHxNaGZE6qQJ0al" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
-    <mxGraphModel dx="1781" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1949" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -521,9 +521,6 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-186" value="起始时间平均分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1695" width="109" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-190" value="&lt;font color=&quot;#b266ff&quot;&gt;两种方式，没办法做空白时间间隔&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1199" y="1655" width="195" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-192" value="联合批量删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1029" y="1790" width="160" height="30" as="geometry" />
         </mxCell>
@@ -759,8 +756,8 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-280" value="&lt;font color=&quot;#ff0000&quot;&gt;放画像，此功能可不做&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="1230" width="176" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-281" value="数据量小，可以之间全部展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-281" value="数据量小，可以之间全部展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="17.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-283" value="&lt;font color=&quot;#9933ff&quot;&gt;假分页&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1930" y="56.25" width="170" height="25" as="geometry" />
