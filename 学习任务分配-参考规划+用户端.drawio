@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T03:13:52.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="XIoNsamMk-gFTRg4uW9l" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T03:16:18.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="qkdSKkaww5zZEwoICHFn" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
     <mxGraphModel dx="925" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,6 +448,21 @@
             <mxPoint x="1270" y="950" as="sourcePoint" />
             <mxPoint x="1350" y="950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="940" as="sourcePoint" />
+            <mxPoint x="1550" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1530" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-179" value="&lt;font color=&quot;#b266ff&quot;&gt;调整顺序按钮也可去掉&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-180" value="&lt;font color=&quot;#b266ff&quot;&gt;任务列表中的任务可自行调整顺序，此按钮可去掉吧？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="840" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
