@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T03:13:03.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="fgq2D1MpeWXQ8NjfY_EV" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T03:13:52.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="XIoNsamMk-gFTRg4uW9l" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
     <mxGraphModel dx="925" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -432,7 +432,22 @@
           <mxGeometry x="1130" y="1010" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-171" value="&lt;font color=&quot;#b266ff&quot;&gt;添加任务为啥不在“添加任务”功能中添加呢？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="980" width="100" height="60" as="geometry" />
+          <mxGeometry x="1210" y="980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-173" value="删除任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-175" value="任务上移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="925" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-176" value="任务下移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="970" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-177" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="950" as="sourcePoint" />
+            <mxPoint x="1350" y="950" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
