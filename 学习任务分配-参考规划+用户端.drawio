@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T06:43:54.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="pO9vqKHtQk7X5QrSx-gG" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T06:48:35.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="bWEK330dTw0mV_Jp8Ul1" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
-    <mxGraphModel dx="1793" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,56 +11,86 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-35" value="学习任务分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="1303.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-36" value="分配列表查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="1243.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-38" target="Sbyam__u2MsJ9fQgmKF_-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-38" value="为学员分配任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="1363.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="620" />
-              <mxPoint x="770" y="229" />
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="229" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="1560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="1670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="1760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="1920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="620" />
-              <mxPoint x="770" y="1079" />
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="1079" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-151">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="2140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-41" target="Sbyam__u2MsJ9fQgmKF_-154">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1394" />
+              <mxPoint x="730" y="2330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-41" value="分配详情页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="1353.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-43" target="Sbyam__u2MsJ9fQgmKF_-58">
           <mxGeometry relative="1" as="geometry" />
@@ -432,7 +462,7 @@
           <mxGeometry x="870" y="2360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-156" value="&lt;font color=&quot;#ff0000&quot;&gt;批量设置多个学生时，如果一个学管负责多个班级，勾选的学生跨班（课程产品不一样，绑定的服务课程就可能不一样，批量设置时，任务无法统一）&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;即使是同一个班级的学员，他们都有会有各自的任务完成进度，如果不一致，此时分配的任务肯定是参差不齐的，怎么预览展示？？？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="585" width="290" height="170" as="geometry" />
+          <mxGeometry x="160" y="1358.75" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-157" value="实际覆盖的是添加任务中已设置的任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1299" y="1530" width="120" height="60" as="geometry" />
