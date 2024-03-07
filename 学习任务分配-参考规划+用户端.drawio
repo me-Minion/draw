@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T03:53:03.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="_jHiTGKafklnt3d1slws" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T04:00:20.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="uFDVcXcKvysZsLzy__zL" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
     <mxGraphModel dx="956" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,13 +419,28 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-154" target="Sbyam__u2MsJ9fQgmKF_-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-154" value="日历" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1040" width="120" height="80" as="geometry" />
+          <mxGeometry x="890" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-155" value="&lt;div&gt;&lt;font color=&quot;#b266ff&quot;&gt;日历数据应该是在添加完任务+设置后分配的时候手动触发吧？？&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b266ff&quot;&gt;按月查询，数据量会不会很大，页面扛得住么&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1110" width="140" height="30" as="geometry" />
+          <mxGeometry x="890" y="1180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-156" value="&lt;font color=&quot;#ff0000&quot;&gt;批量设置多个学生时，如果一个学管负责多个班级，勾选的学生跨班（课程产品不一样，绑定的服务课程就可能不一样，批量设置时，任务无法统一）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-156" value="&lt;font color=&quot;#ff0000&quot;&gt;批量设置多个学生时，如果一个学管负责多个班级，勾选的学生跨班（课程产品不一样，绑定的服务课程就可能不一样，批量设置时，任务无法统一）&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;即使是同一个班级的学员，他们都有会有各自的任务完成进度，如果不一致，此时分配的任务肯定是参差不齐的，怎么预览展示？？？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="585" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-157" value="实际覆盖的是添加任务中已设置的任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -486,7 +501,7 @@
           <mxGeometry x="960" y="840" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-181" value="删除某一天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1065" width="60" height="30" as="geometry" />
+          <mxGeometry x="1100" y="1065" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-183" value="每日学习数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="575" width="109" height="20" as="geometry" />
@@ -499,6 +514,24 @@
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-192" value="联合批量删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="740" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-195" value="&lt;font color=&quot;#ff3333&quot;&gt;什么算无效分配任务，需罗列出判断准则&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="590" width="240" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-196" value="撤回上一次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1095" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-197" value="发送任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1125" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-198" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1160" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-202" value="无效分配任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1190" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-203" value="分配记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1220" width="140" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
