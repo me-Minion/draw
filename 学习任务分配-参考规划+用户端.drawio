@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T04:00:41.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="7iKrzwJCPBivFJcz2gft" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T06:14:47.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="8gM7cyLcDNDxgSwMXbks" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
-    <mxGraphModel dx="956" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,34 +113,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-44" value="参考规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-45" target="Sbyam__u2MsJ9fQgmKF_-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-45" value="调整用户课前规划等级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-46" target="Sbyam__u2MsJ9fQgmKF_-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-46" value="分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-47" target="Sbyam__u2MsJ9fQgmKF_-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-47" value="全选/取消全选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-48" target="Sbyam__u2MsJ9fQgmKF_-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-48" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-49" value="调整顺序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-58" target="Sbyam__u2MsJ9fQgmKF_-65">
           <mxGeometry relative="1" as="geometry" />
@@ -157,8 +157,20 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-58" value="学习任务库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="188.75" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-60" target="Sbyam__u2MsJ9fQgmKF_-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-60" target="Sbyam__u2MsJ9fQgmKF_-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-60" target="Sbyam__u2MsJ9fQgmKF_-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-60" target="Sbyam__u2MsJ9fQgmKF_-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-60" value="规划列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="1090" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-62" target="Sbyam__u2MsJ9fQgmKF_-157">
           <mxGeometry relative="1" as="geometry" />
@@ -169,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-62" value="弹窗&lt;span style=&quot;background-color: initial;&quot;&gt;调节&lt;/span&gt;&lt;div&gt;课程&lt;span style=&quot;background-color: initial;&quot;&gt;规划&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="485" width="50" height="50" as="geometry" />
+          <mxGeometry x="1135" y="955" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-64" target="Sbyam__u2MsJ9fQgmKF_-183">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-64" value="弹窗&lt;div&gt;分配规则&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="595" width="50" height="50" as="geometry" />
+          <mxGeometry x="1135" y="1065" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-65" target="Sbyam__u2MsJ9fQgmKF_-92">
           <mxGeometry relative="1" as="geometry" />
@@ -411,7 +423,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-151" value="任务列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="890" y="1390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-153" value="此步骤需要落库不？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="55" width="120" height="415" as="geometry" />
@@ -435,100 +447,121 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-154" value="日历" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1110" width="120" height="80" as="geometry" />
+          <mxGeometry x="890" y="1580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-155" value="&lt;div&gt;&lt;font color=&quot;#b266ff&quot;&gt;日历数据应该是在添加完任务+设置后分配的时候手动触发吧？？&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b266ff&quot;&gt;按月查询，数据量会不会很大，页面扛得住么&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1180" width="140" height="30" as="geometry" />
+          <mxGeometry x="890" y="1650" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-156" value="&lt;font color=&quot;#ff0000&quot;&gt;批量设置多个学生时，如果一个学管负责多个班级，勾选的学生跨班（课程产品不一样，绑定的服务课程就可能不一样，批量设置时，任务无法统一）&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;即使是同一个班级的学员，他们都有会有各自的任务完成进度，如果不一致，此时分配的任务肯定是参差不齐的，怎么预览展示？？？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="585" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-157" value="实际覆盖的是添加任务中已设置的任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-160" value="&lt;font color=&quot;#ff3333&quot;&gt;如果没有添加过课前规划任务，此按钮有作用吗&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="465" width="140" height="15" as="geometry" />
+          <mxGeometry x="1340" y="935" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-161" value="&lt;font color=&quot;#ff3333&quot;&gt;按现有的设计，是准备做成通用任务编辑功能吧？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="470" width="160" height="22" as="geometry" />
+          <mxGeometry x="890" y="940" width="160" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-162" value="&lt;font color=&quot;#ff3333&quot;&gt;同一种任务类型会产生多个吗？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="930" width="180" height="10" as="geometry" />
+          <mxGeometry x="870" y="1400" width="180" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-163" value="删除任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="880" width="90" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-164" value="调整顺序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="925" width="90" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1395" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-165" value="向下添加任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="970" width="90" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-166" value="向上添加任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1010" width="90" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-171" value="&lt;font color=&quot;#b266ff&quot;&gt;添加任务为啥不在“添加任务”功能中添加呢？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="980" width="100" height="60" as="geometry" />
+          <mxGeometry x="1210" y="1450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-173" value="删除任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="880" width="90" height="30" as="geometry" />
+          <mxGeometry x="1365" y="1350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-175" value="任务上移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="925" width="90" height="30" as="geometry" />
+          <mxGeometry x="1365" y="1395" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-176" value="任务下移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="970" width="90" height="30" as="geometry" />
+          <mxGeometry x="1365" y="1440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-177" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1270" y="950" as="sourcePoint" />
-            <mxPoint x="1350" y="950" as="targetPoint" />
+            <mxPoint x="1270" y="1420" as="sourcePoint" />
+            <mxPoint x="1350" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1480" y="940" as="sourcePoint" />
-            <mxPoint x="1550" y="940" as="targetPoint" />
+            <mxPoint x="1480" y="1410" as="sourcePoint" />
+            <mxPoint x="1550" y="1410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1530" y="940" />
+              <mxPoint x="1530" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-179" value="&lt;font color=&quot;#b266ff&quot;&gt;调整顺序按钮也可去掉&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="930" width="60" height="30" as="geometry" />
+          <mxGeometry x="1570" y="1400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-180" value="&lt;font color=&quot;#b266ff&quot;&gt;任务列表中的任务可自行调整顺序，此按钮可去掉吧？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="840" width="130" height="30" as="geometry" />
+          <mxGeometry x="960" y="1310" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-181" value="删除某一天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1065" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1535" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-183" value="每日学习数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="575" width="109" height="20" as="geometry" />
+          <mxGeometry x="1241" y="1045" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-186" value="起始时间平均分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="645" width="109" height="20" as="geometry" />
+          <mxGeometry x="1241" y="1115" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-190" value="&lt;font color=&quot;#b266ff&quot;&gt;两种方式，没办法做空白时间间隔&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="605" width="195" height="30" as="geometry" />
+          <mxGeometry x="1210" y="1075" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-192" value="联合批量删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="740" width="160" height="30" as="geometry" />
+          <mxGeometry x="1040" y="1210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-196" value="撤回上一次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1095" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1565" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-197" value="发送任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1125" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1595" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-198" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1160" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1630" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-202" value="无效分配任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1190" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1660" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-203" value="分配记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1220" width="140" height="15" as="geometry" />
+          <mxGeometry x="1100" y="1690" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-206" value="暂存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1622.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-207" value="保存+生效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1587.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-208" value="&lt;font color=&quot;#ff8000&quot;&gt;此处有难点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1556.5" width="80" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-209" value="列表查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="470" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-210" value="新建规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="550" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-211" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="630" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-212" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="710" width="118" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
