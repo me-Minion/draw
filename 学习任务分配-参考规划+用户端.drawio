@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T06:40:54.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="-AwDWPlDwWmQjPbYvHRq" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T06:43:54.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="pO9vqKHtQk7X5QrSx-gG" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
-    <mxGraphModel dx="2868" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,6 +643,9 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-249" value="参考规划列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1394" y="695" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-250" target="Sbyam__u2MsJ9fQgmKF_-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-250" value="查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1554" y="690" width="100" height="25" as="geometry" />
         </mxCell>
@@ -660,6 +663,15 @@
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-256" value="任务列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-262" target="Sbyam__u2MsJ9fQgmKF_-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-262" value="学员与当前规则匹配后的任务计划+日历" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="663" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-264" value="使用规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="690" width="100" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
