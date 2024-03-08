@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:45:57.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="ce2zzjwj39Kjfwq3X6So" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:47:56.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="kIHb2UBWR0mcDrdFuDbv" version="24.0.2" type="github">
   <diagram name="第 1 页" id="9BZdloZdPXbtKQPZ9AlU">
-    <mxGraphModel dx="3217" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,11 +362,17 @@
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-147" target="iIJYMMnLSl6CzRDzTWIC-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iIJYMMnLSl6CzRDzTWIC-147" value="任务分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;textShadow=1;sketch=1;curveFitting=1;jiggle=2;gradientColor=none;glass=0;" vertex="1" parent="1">
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-147" value="自定义任务分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;textShadow=1;sketch=1;curveFitting=1;jiggle=2;gradientColor=none;glass=0;" vertex="1" parent="1">
           <mxGeometry x="2790" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-149" value="END" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2490" y="2610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-151" value="没有选择参考规划，此按钮置灰；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2895" y="2210" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-152" value="如果此处允许自定义任务，可能会出问题！！！" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="2280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
