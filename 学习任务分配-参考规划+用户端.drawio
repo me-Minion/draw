@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T10:09:04.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="0UK7hCHxNaGZE6qQJ0al" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T03:38:31.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="-uinMMNC99kcfTWJW7DU" version="24.0.2" type="github">
   <diagram name="第 1 页" id="DTEnMfCUto97bQmpxiS1">
-    <mxGraphModel dx="1949" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2620" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,33 +482,6 @@
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-171" value="&lt;font color=&quot;#b266ff&quot;&gt;添加任务为啥不在“添加任务”功能中添加呢？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="2160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-173" value="删除任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="2060" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-175" value="任务上移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="2105" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-176" value="任务下移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="2150" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-177" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="2130" as="sourcePoint" />
-            <mxPoint x="1330" y="2130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1460" y="2120" as="sourcePoint" />
-            <mxPoint x="1530" y="2120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1510" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-179" value="&lt;font color=&quot;#b266ff&quot;&gt;调整顺序按钮也可去掉&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="2110" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-180" value="&lt;font color=&quot;#b266ff&quot;&gt;任务列表中的任务可自行调整顺序，此按钮可去掉吧？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="949" y="1890" width="130" height="30" as="geometry" />
         </mxCell>
@@ -717,21 +690,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-268" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="2050" width="279" height="350" as="geometry" />
+          <mxGeometry x="1230" y="2065" width="279" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Sbyam__u2MsJ9fQgmKF_-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=10;strokeColor=#66FFFF;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-264" target="Sbyam__u2MsJ9fQgmKF_-268">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2960" y="696" />
-              <mxPoint x="2960" y="2225" />
+              <mxPoint x="2960" y="2240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sbyam__u2MsJ9fQgmKF_-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=10;strokeColor=#66FFFF;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-251" target="Sbyam__u2MsJ9fQgmKF_-268">
+        <mxCell id="Sbyam__u2MsJ9fQgmKF_-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=10;strokeColor=#66FFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sbyam__u2MsJ9fQgmKF_-251" target="Sbyam__u2MsJ9fQgmKF_-268">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="2260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2960" y="776" />
-              <mxPoint x="2960" y="2225" />
+              <mxPoint x="2960" y="2240" />
             </Array>
           </mxGeometry>
         </mxCell>
