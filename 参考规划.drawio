@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:52:05.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="Csrvg8fOK-1GaC--Ao_h" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:53:33.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="1aykgY8A-GGIxQaPMzQ_" version="24.0.2" type="github">
   <diagram name="第 1 页" id="9BZdloZdPXbtKQPZ9AlU">
     <mxGraphModel dx="2336" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-151" value="没有选择参考规划，此按钮置灰；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2895" y="2210" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iIJYMMnLSl6CzRDzTWIC-152" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;如果此处允许自定义任务，可能会出问题！！！&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1、使用模板方式，必须先加参考规划，才能用自定义任务&lt;br&gt;2、先加参考规划，再加自定义任务，此时参考规划删除，重新再加参考规划，此时需要先清空日历。也会有问题。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;需要确定使用的限定条件。&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-152" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;如果此处允许自定义任务，可能会出问题！！！&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1、使用模板方式，必须先加参考规划，才能用自定义任务&lt;br&gt;2、先加参考规划，再加自定义任务，此时参考规划删除，重新再加参考规划，此时需要先清空日历。也会有问题。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;需要确定使用的限定条件。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;唯一的问题：&lt;font color=&quot;#ff0000&quot;&gt;加了自定义，再加参考规划，可能会有问题。&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="2210" width="570" height="240" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-153" value="模板方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
