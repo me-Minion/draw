@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:16:36.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="LGwB9g81iPTjvCi7kLFH" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:29:46.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="tfMB198wOJKhM7LIDjLF" version="24.0.2" type="github">
   <diagram name="第 1 页" id="9BZdloZdPXbtKQPZ9AlU">
     <mxGraphModel dx="2193" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,10 +74,124 @@
           <mxGeometry x="980" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-28" value="&lt;h1&gt;课前规划&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;只能添加全部任务（即所有科目、全部等级全配置，如将课程配置全的话，仅配置一个规划即可）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;任务可以分成多个时间段&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;使用：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;学员使用时，将全部任务过滤为仅学员测定等级及以上的任务可用。比如，测定为B，则实际任务应为B+A，此时可以按需要，再过滤掉已完成任务。同时，也可提示，是否以规划内分配的时间进行设置，如果否，可设置新的分配规则。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;问题：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Q1、课前规划是否会有多个规划&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;A1、按实际数据，如果全部配置，除去分配时间不考虑的话，一条数据即可满足情况。如果想有多个分配时间的话，就需要支持多个规划的创建。只一点：&lt;font color=&quot;#cc0000&quot;&gt;一个学员在使用参考规划时，仅限使用一个课前规划类型的&lt;/font&gt;。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="940" width="530" height="630" as="geometry" />
+          <mxGeometry x="110" y="940" width="530" height="510" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-30" value="&lt;h1&gt;录播课、续学课、保温刷题&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;可以添加部分任务&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;部分任务可以分成多个时间段&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;允许多个规划同时让学员使用&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;使用：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;理想情况是，配置全部的任务，和课前规划保持一致。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;特殊情况，一个课程，一分为N个规划，每个规划有N个时间段；并且同一个学员可以多个规划配合使用。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="970" width="660" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-31" target="iIJYMMnLSl6CzRDzTWIC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-31" target="iIJYMMnLSl6CzRDzTWIC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-31" value="录播课某一个课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-32" target="iIJYMMnLSl6CzRDzTWIC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-32" value="全部任务类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-34" target="iIJYMMnLSl6CzRDzTWIC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-34" target="iIJYMMnLSl6CzRDzTWIC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-34" target="iIJYMMnLSl6CzRDzTWIC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-34" target="iIJYMMnLSl6CzRDzTWIC-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-34" value="非全部任务类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-36" value="同课前规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-38" value="part1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1345" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-39" value="part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1375" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-40" value="part3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1405" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-41" value="part4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1435" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1265" width="50" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-47" value="前提条件：&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;同一个课程类型，同一个课程，一个学员仅能绑定一个&lt;/font&gt;；&lt;/div&gt;&lt;div&gt;如果将课程任务一拆为N，则创建非全部任务类型的，实时按需补充新的任务及其对应的分配规则&lt;/div&gt;&lt;div&gt;多个part部分之间子任务不可重复；&lt;/div&gt;&lt;div&gt;课程之间不能混搭。即A课程下的任务，不能挂到B任务下。如果想混搭挂，自己去学员维度绑定多个课程。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1290" width="350" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-48" target="iIJYMMnLSl6CzRDzTWIC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-48" value="课前规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-49" target="iIJYMMnLSl6CzRDzTWIC-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-49" target="iIJYMMnLSl6CzRDzTWIC-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-49" target="iIJYMMnLSl6CzRDzTWIC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-49" value="全部任务类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-54" target="iIJYMMnLSl6CzRDzTWIC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-54" target="iIJYMMnLSl6CzRDzTWIC-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-54" value="任务Part 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-55" target="iIJYMMnLSl6CzRDzTWIC-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-55" target="iIJYMMnLSl6CzRDzTWIC-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-55" value="任务&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BB%BB%E5%8A%A1Part%201%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22430%22%20y%3D%221480%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BB%BB%E5%8A%A1Part%201%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22430%22%20y%3D%221480%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;Part 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-56" target="iIJYMMnLSl6CzRDzTWIC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-56" target="iIJYMMnLSl6CzRDzTWIC-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-56" value="任务&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BB%BB%E5%8A%A1Part%201%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22430%22%20y%3D%221480%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BB%BB%E5%8A%A1Part%201%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22430%22%20y%3D%221480%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;Part 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-61" value="分配 Part1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-62" value="分配 Part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-68" value="分配 Part1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-69" value="分配 Part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-70" value="分配 Part1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-71" value="分配 Part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1640" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
