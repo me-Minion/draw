@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:30:53.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="b95joWy3fBtPw32dHEdo" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:32:25.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="boarO_3gxqevFrFK2O2Q" version="24.0.2" type="github">
   <diagram name="第 1 页" id="9BZdloZdPXbtKQPZ9AlU">
     <mxGraphModel dx="2193" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,23 +112,35 @@
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-36" value="同课前规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-38" target="iIJYMMnLSl6CzRDzTWIC-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-38" value="任务 part1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1345" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-39" target="iIJYMMnLSl6CzRDzTWIC-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-39" value="任务 part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1375" width="119" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-40" target="iIJYMMnLSl6CzRDzTWIC-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-40" value="任务 part3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1405" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-41" target="iIJYMMnLSl6CzRDzTWIC-80">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-41" value="任务 part4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1435" width="119" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1265" width="50" height="185" as="geometry" />
+          <mxGeometry x="1460" y="1265" width="50" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="iIJYMMnLSl6CzRDzTWIC-47" value="前提条件：&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;同一个课程类型，同一个课程，一个学员仅能绑定一个&lt;/font&gt;；&lt;/div&gt;&lt;div&gt;如果将课程任务一拆为N，则创建非全部任务类型的，实时按需补充新的任务及其对应的分配规则&lt;/div&gt;&lt;div&gt;多个part部分之间子任务不可重复；&lt;/div&gt;&lt;div&gt;课程之间不能混搭。即A课程下的任务，不能挂到B任务下。如果想混搭挂，自己去学员维度绑定多个课程的参考规划。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1290" width="350" height="115" as="geometry" />
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-47" value="前提条件：&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;同一个课程类型，同一个课程，一个学员仅能绑定一个&lt;/font&gt;；&lt;/div&gt;&lt;div&gt;如果将课程任务一拆为N，则创建非全部任务类型的，实时按需补充新的任务及其对应的分配规则&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;多个part部分之间子任务不可重复&lt;/font&gt;；&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;课程之间不能混搭。即A课程下的任务，不能挂到B任务下。如果想混搭挂，自己去学员维度绑定多个课程的参考规划。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1290" width="350" height="115" as="geometry" />
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIJYMMnLSl6CzRDzTWIC-48" target="iIJYMMnLSl6CzRDzTWIC-49">
           <mxGeometry relative="1" as="geometry" />
@@ -192,6 +204,18 @@
         </mxCell>
         <mxCell id="iIJYMMnLSl6CzRDzTWIC-71" value="分配 Part2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-77" value="分配1,2,3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1345" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-78" value="分配1,2,3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1375" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-79" value="分配1,2,3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1405" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iIJYMMnLSl6CzRDzTWIC-80" value="分配1,2,3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1435" width="119" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
